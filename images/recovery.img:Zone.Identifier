@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://www.pling.com/
+HostUrl=https://ocs-dl.fra1.cdn.digitaloceanspaces.com/data/files/1666872529/recovery.img?response-content-disposition=attachment%3B%2520recovery.img&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=RWJAQUNCHT7V2NCLZ2AL%2F20230116%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230116T081548Z&X-Amz-SignedHeaders=host&X-Amz-Expires=60&X-Amz-Signature=56e4654443e308dc6ede628d31e7ee2ae97ccbe59de5638b977d7d00fd80c668

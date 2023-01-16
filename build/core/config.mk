@@ -1,0 +1,1 @@
+-include vendor/xiaomi/begonia-firmware/config.mk
